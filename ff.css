@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+.social {
+  animation: animation1 1s ease-out;
+}
+.social i {
+  font-size: 25px;
+  font-size: 25px;
+  color: rgb(204, 156, 156);
+}
